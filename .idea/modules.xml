@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code-examples.iml" filepath="$PROJECT_DIR$/code-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code-examples.main.iml" filepath="$PROJECT_DIR$/.idea/modules/code-examples.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/code-examples.test.iml" filepath="$PROJECT_DIR$/.idea/modules/code-examples.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/design-patterns-practice.iml" filepath="$PROJECT_DIR$/.idea/design-patterns-practice.iml" />
+    </modules>
+  </component>
+</project>
