@@ -4,7 +4,7 @@
     <output-test url="file://$MODULE_DIR$/../../code-examples/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../code-examples/src/test" />
-    <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="code-examples.main" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter:5.10.0" level="project" />
